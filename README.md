@@ -73,8 +73,17 @@ Follow these steps to run the project locally on your machine:
 
    2. Navigate to the project directory:
 
-   ```bash
    cd dashboard
+
+   3. Install dependencies:
+
+   npm start
+
+   4. Run the development server:
+
+   npm start
+
+   5. Open your browser and visit http://localhost:3000 to view the admin dashboard.
 
 
 
