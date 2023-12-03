@@ -1,3 +1,78 @@
+# Admin Dashboard UI
+
+## Deployed Link
+
+[Admin-Dashboard](https://admiin-dashboaard.netlify.app/).
+
+## Overview
+
+This project is a admin dashboard interface that allows users to view, edit, and delete user records fetched from an API. The dashboard includes features such as search functionality, pagination, and bulk row deletion.
+
+## Screenshoots
+<br/>
+<br/>
+![Screenshot (186)](https://github.com/Bandinikhil/dashboard/assets/105233916/ea947148-8c78-422e-b998-f565ee2499d1)
+<br/>
+<br/>
+<br/>
+![Screenshot (187)](https://github.com/Bandinikhil/dashboard/assets/105233916/17883835-c1ad-46e7-be8d-638c5f7ab8a7)
+<br/>
+<br/>
+## Features
+
+1. **Column Titles Visibility:**
+   - Column titles are designed to stand out from the entries, ensuring clarity and readability.
+
+2. **Search Functionality:**
+   - The dashboard includes a search bar that enables users to filter records based on any property.
+
+3. **Inline Editing:**
+   - Users can edit or delete rows in place. Note that edits and deletions are expected to occur in memory and are not persistent.
+
+4. **Pagination:**
+   - The pagination system allows users to navigate through the records, with each page containing 10 rows.
+   - Pagination updates dynamically based on search/filtering results, ensuring accuracy.
+
+5. **Row Selection:**
+   - Users can select one or more rows, with selected rows highlighted using a grayish background color.
+   - The 'Delete Selected' button at the top right allows users to delete multiple selected rows simultaneously.
+
+6. **Shortcut Checkbox:**
+   - The checkbox on the top left serves as a shortcut to select or deselect all displayed rows on the current page.
+
+7. **Search Box UI Elements:**
+   - The search box placeholder text starts with "Search."
+   - The search icon/button has a class name as "search-icon" and can trigger search on ENTER.
+
+8. **Action Elements:**
+   - Action elements, such as edit, delete, and save, are represented as buttons with specific class names.
+
+9. **Navigation Elements:**
+   - Navigation elements (first-page, previous-page, next-page, last-page) are styled as div/buttons for ease of use.
+
+10. **Inline Editing:**
+    - Clicking the edit action in a row allows users to edit the row in place.
+
+11. **Libraries:**
+    - Feel free to use any libraries that enhance the development process.
+
+## How to Run Locally
+
+Follow these steps to run the project locally on your machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/admin-dashboard.git
+
+   2. Navigate to the project directory:
+
+   ```bash
+   cd dashboard
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
