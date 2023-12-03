@@ -11,12 +11,18 @@ This project is a admin dashboard interface that allows users to view, edit, and
 ## Screenshoots
 <br/>
 <br/>
+
 ![Screenshot (186)](https://github.com/Bandinikhil/dashboard/assets/105233916/ea947148-8c78-422e-b998-f565ee2499d1)
+
+
 <br/>
 <br/>
 <br/>
+
+
 ![Screenshot (187)](https://github.com/Bandinikhil/dashboard/assets/105233916/17883835-c1ad-46e7-be8d-638c5f7ab8a7)
-<br/>
+
+
 <br/>
 ## Features
 
